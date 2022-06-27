@@ -15,8 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          dont learn anything idiot
-          get hacked
+          im being nice and professional 
+          
         </a>
       </header>
     </div>
